@@ -12,4 +12,4 @@ Quão sensível é a demanda de vendas, se o preço do produto mudar? Quanto as 
 
 O preço de um produto é um aspecto crucial em qualquer tipo de negócio, seja ele relacionado a tecnologia, saúde, educação, independentemente do tamanho da companhia relacionada a este produto.Existem diferentes estratégias para precificar diferentes tipos de produtos já que existem produtos cujas vendas são bastante sensíveis aos seus preços e como tal uma pequena alteração no seu preço pode levar a uma alteração perceptível nas suas vendas.
 
-Este travalho visa medir esta sensibilidade, também chamada de elasticidade-preço da demanda (EPD), ou elasticidade.
+Este trabalho visa medir esta sensibilidade, também chamada de elasticidade-preço da demanda (EPD), ou elasticidade.
